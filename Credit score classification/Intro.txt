@@ -1,0 +1,7 @@
+Credit score classification checks whether the customer is having good financial background
+so bank can decide about loan aprroval.
+
+Here customers are classified into 3 categories.
+1. Good
+2. Standard
+3. Poor
